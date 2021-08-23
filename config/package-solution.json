@@ -5,7 +5,14 @@
     "id": "2b6a4fc2-c5f8-456a-844b-5b96914fa64f",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
-    "isDomainIsolated": false
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "ST Chiew",
+      "privacyUrl": "https://stchiew.com/privacy",
+      "termsOfUseUrl": "https://stchiew.com/terms-of-use",
+      "websiteUrl": "https://stchiew.com/",
+      "mpnId": "000000"
+    }
   },
   "paths": {
     "zippedPackage": "solution/like-vote.sppkg"
